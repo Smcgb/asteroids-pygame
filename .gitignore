@@ -11,3 +11,4 @@ wheels/
 
 # jsonl for game state logging
 *.jsonl
+.main.py.swp
